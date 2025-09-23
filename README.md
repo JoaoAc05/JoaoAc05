@@ -1,7 +1,7 @@
 ## Muito prazer! Me chamo João Alves
 
 - 🔭 Atualmente trabalho na RuralHub🌱
-- 📚 Cursando Análise e Desnvolvimento de Sistemas 5/5
+- 📚 Formado em Análise e Desenvolvimento de Sistemas
 - 🎮 Entusiasta de programação, gosto de fazer alguns projetos!
 
 <div style="display: inline_block"><br>
