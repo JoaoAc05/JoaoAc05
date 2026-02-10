@@ -9,7 +9,7 @@
 - 📚 Graduado em **Análise e Desenvolvimento de Sistemas**
 - 🎓 Iniciando **Mestrado** com ênfase em tecnologia e inovação
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAc05&layout=compact)]
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAc05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoaoAc05&show_icons=true&theme=radical)
 
