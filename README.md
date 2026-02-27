@@ -3,15 +3,12 @@
 --- 
 
 ### 🚀 Sobre mim
-- 🔭 Atualmente trabalho na **RuralHub**, desenvolvendo e apoiando soluções para toda a cadeia do agronegócio  
+- 🔭 Atualmente trabalho na **RuralHub**, desenvolvendo e apoiando soluções para toda a cadeia do agronegócio
+- 🗣️ Dou aula de Matemática e Lógica Computacional na Unifasipe
 - 🧠 Experiência prática com **sistemas corporativos, ERPs, suporte técnico e automações**
 - 🤖 Desenvolvendo **bots, agentes de IA e demais soluções** para atendimento, análise de dados e suporte interno
 - 📚 Graduado em **Análise e Desenvolvimento de Sistemas**
 - 🎓 Iniciando **Mestrado** com ênfase em tecnologia e inovação
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAc05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoaoAc05&show_icons=true&theme=radical)
 
 <details>
 <summary>
