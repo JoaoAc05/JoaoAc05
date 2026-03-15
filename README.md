@@ -1,21 +1,21 @@
-# Hello There! I'm João Alves ☕
+# Seja Bem Vindo Ao Perfil! ☕
 
 --- 
 
-### 🚀 Sobre mim
+### 🚀 Conheça Um Pouco Sobre Mim
 - 🔭 Atualmente trabalho na **RuralHub**, desenvolvendo e apoiando soluções para toda a cadeia do agronegócio
-- 🗣️ Dou aula de Matemática e Lógica Computacional na Unifasipe
+- 🗣️ Dou aula de **Matemática e Lógica Computacional** e de **Computação Gráfica** na Unifasipe
 - 🧠 Experiência prática com **sistemas corporativos, ERPs, suporte técnico e automações**
 - 🤖 Desenvolvendo **bots, agentes de IA e demais soluções** para atendimento, análise de dados e suporte interno
 - 📚 Graduado em **Análise e Desenvolvimento de Sistemas**
-- 🎓 Iniciando **Mestrado** com ênfase em tecnologia e inovação
+- 🎓 **Mestrando** com ênfase em tecnologia e inovação (PROFNIT) 2026 - 2027
 
 <details>
 <summary>
   Ver mais...
 </summary>
 
-### 🧠 Áreas de atuação
+### 🧠 Áreas de Atuação
 - Automação de processos (bots, fluxos e integrações)
 - Desenvolvimento backend e APIs
 - Sistemas para agronegócio (financeiro, fiscal, comercialização, logística e armazenagem)
